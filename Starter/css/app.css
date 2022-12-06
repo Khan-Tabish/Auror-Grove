@@ -7834,6 +7834,9 @@ body {
     font-size: 1.5rem;
     border-radius: 2rem; }
 
+#quotes i {
+  opacity: 0.3; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
